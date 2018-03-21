@@ -1,0 +1,10 @@
+file.c\a.txt:字符数为：34
+
+file.c\aesvg\advbh.c:字符数为：0
+
+file.c\aesvg\b.txt:字符数为：21
+
+file.c\aesvg\新建文件夹\cd.txt:字符数为：0
+
+file.c\aesvg\新建文件夹\ghj.c:字符数为：0
+
